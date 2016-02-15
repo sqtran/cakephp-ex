@@ -213,6 +213,10 @@ pre {
             <h1>Welcome to your CakePHP application on OpenShift Steve!!!!!!!!!!!!!!!!!!!!!!1</h1>
           </hgroup>
 
+        <div class="row">
+           <img src="http://localsound.org/wp-content/uploads/2015/03/Fallout-Thumbs-Up.jpg">
+        </div>
+
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
